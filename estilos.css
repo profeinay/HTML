@@ -12,3 +12,14 @@ h1,h2 {
 body{
     color: blue;
 }
+#t4{
+    color: chocolate;
+    font-size:50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.estilo{
+    color: rgb(5, 46, 228);
+    font-style: italic;
+    font-size: 25px;
+
+}
