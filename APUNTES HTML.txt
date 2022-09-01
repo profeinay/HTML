@@ -1,0 +1,58 @@
+INSTALAR LA ESTENCION ESLINT
+INTELLISENSE FOR SCC CLASS
+JAVASCRIP CODE
+JavaScript (ES6) code snippets
+Material Icon Theme
+vscode-icons
+Path Intellisense
+Prettier - Code formatter
+Live Server-->se debe instalar esta extension para poder ver la paginas web
+
+COMANDOS DEL GIT BASH
+TERMINAL
+$ git config --global user.name "profeinay"
+$ git config --global user.email profeinay@hotmail.com
+$ git init
+git add HolaMundo.html
+git commit -m "Primer cambio"
+
+ACTUALIZACION GIT
+
+README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/profeinay/HTML.git
+git push -u origin main
+
+COMENTARIOS---> CTRL + }
+https://www.freepik.es/ para imágenes sin derechos de autor
+
+si quiere vincular videos de you tube
+busque el video
+haga clic dere<cho
+seleccione copiar codigo de insercion
+luego va al html y pega el codigo
+
+INSTALAR LA EXTENSION EL LIVE SERVER PARA PODER TRABAJAR CON BOOT STRAP
+
+VISITAR ESTA PAGINA PARA REALIZAR EL DISEÑO
+https://app.diagrams.net
+https://my.moqups.com/login
+utilizar el CDN PARA JQUERY DEBE IR ANTES DEL SCRIPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
